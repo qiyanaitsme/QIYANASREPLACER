@@ -1,0 +1,4 @@
+!k = alt
+!q = qiyana
+!w = walk
+!убер = ubel
